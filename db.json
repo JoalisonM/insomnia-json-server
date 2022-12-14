@@ -1,0 +1,45 @@
+{
+  "clientes": [
+    {
+      "name": "Joalison Matheus",
+      "email": "joalison@gmail.com",
+      "cep": "58340000",
+      "birth": "2002-02-02",
+      "id": 1
+    },
+    {
+      "name": "Douglas Alves",
+      "email": "douglas@gmail.com",
+      "cep": "58340000",
+      "birth": "2002-05-09",
+      "id": 2
+    }
+  ],
+  "produtos": [
+    {
+      "name": "Coxinha",
+      "description": "Coxinha de frango com cheddar",
+      "value": 10,
+      "quantity": 10,
+      "id": 1
+    }
+  ],
+  "fornecedores": [
+    {
+      "name": "Pedro",
+      "email": "pedro@gmail.com",
+      "birth": "2022-12-14",
+      "cep": "58340000",
+      "id": 1
+    }
+  ],
+  "entregadores": [
+    {
+      "name": "Amanda",
+      "email": "amanda@gmail.com",
+      "birth": "2022-12-14",
+      "cep": "58340000",
+      "id": 1
+    }
+  ]
+}
